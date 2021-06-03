@@ -1,4 +1,9 @@
 .idea/
 .git
 src/.idea
-/src/aspnetrun-microservices.sln
+src/Services/Discount/Discount.Grpc/obj/
+src/Services/Discount/Discount.Grpc/bin/
+src/Services/Basket/Basket.API/bin/
+src/Services/Basket/Basket.API/obj/
+src/Services/Discount/Discount.API/obj/
+src/Services/Discount/Discount.API/bin/
